@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.2.0)
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
+    multi_xml (0.6.0)
+    yandex-translator (0.3.2)
+      httparty (>= 0.13.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  yandex-translator
+
+BUNDLED WITH
+   1.11.2
